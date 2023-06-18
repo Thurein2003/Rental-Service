@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\bin\Debug\Nwet RentalService.exe.config
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\bin\Debug\Nwet RentalService.exe
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\bin\Debug\Nwet RentalService.pdb
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\Nwet RentalService.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\RentalService.frmItemCreation.resources
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\Nwet RentalService.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\Nwet RentalService.exe
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\Nwet RentalService.pdb
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\RentalService.frmNwetadminchoice.resources
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\RentalService.frmNwetAdminLogin.resources
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\RentalService.frmNwetCustomerLogin.resources
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\RentalService.frmNwetRegistration.resources
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\RentalService.frmNwetRentalForm.resources
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\RentalService.frmNwetReview.resources
+C:\Users\User\Desktop\Twinkle C++\Version2\SampleAssignment\RentalService\obj\Debug\RentalService.frmNwetStart.resources

@@ -1,0 +1,75 @@
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService\RentalService\obj\Debug\RentalService.csprojResolveAssemblyReference.cache
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService\RentalService\bin\Debug\RentalService.exe.config
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService\RentalService\bin\Debug\RentalService.exe
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService\RentalService\bin\Debug\RentalService.pdb
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService\RentalService\obj\Debug\RentalService.csproj.GenerateResource.Cache
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService\RentalService\obj\Debug\RentalService.exe
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService\RentalService\obj\Debug\RentalService.pdb
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService\RentalService\obj\Debug\RentalService.frmItemCreation.resources
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\bin\Debug\RentalService.exe.config
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\bin\Debug\RentalService.exe
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\bin\Debug\RentalService.pdb
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\RentalService.frmItemCreation.resources
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\RentalService.frmAdminLogin.resources
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\RentalService.frmRegistration.resources
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\RentalService.csproj.GenerateResource.cache
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\RentalService.csproj.CoreCompileInputs.cache
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\RentalService.exe
+C:\Users\ohnma\Documents\SharpDevelop Projects\RentalService_V1\RentalService\obj\Debug\RentalService.pdb
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\bin\Debug\RentalService.exe.config
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\bin\Debug\RentalService.exe
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\bin\Debug\RentalService.pdb
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.csproj.AssemblyReference.cache
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.frmItemCreation.resources
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.frmAdminLogin.resources
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.frmRegistration.resources
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.frmStart.resources
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.csproj.GenerateResource.cache
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.csproj.CoreCompileInputs.cache
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.exe
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.pdb
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.frmCustomerLogin.resources
+C:\Users\ohnma\Desktop\RentalService_V1\RentalService\obj\Debug\RentalService.frmRentalForm.resources
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\bin\Debug\RentalService.exe.config
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\bin\Debug\RentalService.exe
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\bin\Debug\RentalService.pdb
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.csproj.AssemblyReference.cache
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.frmItemCreation.resources
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.frmAdminLogin.resources
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.frmCustomerLogin.resources
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.frmRegistration.resources
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.frmRentalForm.resources
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.frmStart.resources
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.csproj.GenerateResource.cache
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.csproj.CoreCompileInputs.cache
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.exe
+C:\Users\ohnma\Desktop\RentalService_V2\RentalService\obj\Debug\RentalService.pdb
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\bin\Debug\RentalService.exe.config
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\bin\Debug\RentalService.exe
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\bin\Debug\RentalService.pdb
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.csproj.AssemblyReference.cache
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.frmItemCreation.resources
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.frmAdminLogin.resources
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.frmCustomerLogin.resources
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.frmRegistration.resources
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.frmRentalForm.resources
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.frmStart.resources
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.csproj.GenerateResource.cache
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.csproj.CoreCompileInputs.cache
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.exe
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.pdb
+C:\Users\myat4\OneDrive\Desktop\RentalService_V3\RentalService\obj\Debug\RentalService.frmadminchoice.resources
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\bin\Debug\RentalService.exe.config
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\bin\Debug\RentalService.exe
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\bin\Debug\RentalService.pdb
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.csprojResolveAssemblyReference.cache
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.frmNickyadminchoice.resources
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.frmItemCreation.resources
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.frmNickyAdminLogin.resources
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.frmNickyCustomerLogin.resources
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.frmNickyRegistration.resources
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.frmNickyRentalForm.resources
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.frmNickyStart.resources
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.csproj.GenerateResource.Cache
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.exe
+C:\Users\ohnma\Desktop\DDOOCP_Draft_Codes\Sample1\RentalService\obj\Debug\RentalService.pdb
